@@ -1,0 +1,15 @@
+.gritterError {
+  background: red;
+}
+
+.gritterSuccess {
+  background: green;
+}
+
+.gritterAlert {
+  background: orange;
+}
+
+.gritterInfo {
+  background: blue;
+}
