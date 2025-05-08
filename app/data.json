@@ -1,0 +1,1434 @@
+{
+    "estagiario": [],
+    "selecao": [
+        {
+            "anomes": "2025.04",
+            "candidatos": 25,
+            "testes": 15,
+            "top": 3,
+            "media": 4,
+            "candidato": [
+                {
+                    "id": "2025.IR",
+                    "status": "Teste corrigido",
+                    "nome": "Isadora Ruschel",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "isadoraruschel@gmail.com",
+                    "telefone": "49 991273044",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "IsadoraRuschel.pdf",
+                    "linkedin": "isadora-ruschel",
+                    "git": "",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "5",
+                    "hardskills": "Java, C, C++, Python, JavaScript, SQL, Postgres, HTML, CSS, React e Express.",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com a candidata."
+                        },
+                        {
+                            "data": "25/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 08:00 no dia 28/04/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "IsadoraRuschel2025-04-28.zip",
+                        "linguagem": "C",
+                        "data": "28/04/2025",
+                        "inicio": "08:30",
+                        "fim": "10:50",
+                        "tempo": "2h 20min",
+                        "nota": "9.5",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.DHSN",
+                    "status": "Teste corrigido",
+                    "nome": "Dante Hisamitsu Satake Neto",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "danteneto111@gmail.com",
+                    "telefone": "49 988871860",
+                    "endereco": "Xanxerê - SC",
+                    "curriculo": "DanteHisamitsuSatakeNeto.pdf",
+                    "linkedin": "dante-satake-0a8363291",
+                    "git": "",
+                    "instituicao": "Anhanguera",
+                    "curso": "Engenharia de Controle e Automação - Pós-gradução EAD",
+                    "periodo": "1",
+                    "hardskills": "HTML, PHP, C, Python e Javascript, MySQL",
+                    "softskills": "",
+                    "idiomas": "Inglês (Avançado)",
+                    "observacao": "Formado em Arquitetura e Hurbanismo, trabalha como Gerente de Mídias Sociais na Arroba Comunicação.",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "11/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 13:30 no dia 15/04/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "DanteHisamitsuSatakeNeto2015-04-15.zip",
+                        "linguagem": "C",
+                        "data": "15/04/2025",
+                        "inicio": "13:45",
+                        "fim": "16:45",
+                        "tempo": "3h",
+                        "nota": "9.5",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Correta",
+                                "nota": "2.2",
+                                "feedback": "A lógica de cálculo dos centavos não atende a cenários diversos."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Incorreta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissa do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Não fez",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissa do problema."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Não fez",
+                                "nota": "2.3",
+                                "feedback": "Faltou solicitar o valor à pagar e o cálculo do troco."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.CVG",
+                    "status": "Teste corrigido",
+                    "nome": "Cassiane Vitória Gaiardo",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "cassiane.cvg@gmail.com",
+                    "telefone": "54 991712234",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "CassianeVitóriaGaiardo.pdf",
+                    "linkedin": "cassiane-vitória-gaiardo-9295ab300",
+                    "git": "",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "7",
+                    "hardskills": "Java, SQL, Postgres, HTML, CSS, PHP e Bootstrap.",
+                    "softskills": "",
+                    "idiomas": "Espanhol (Intermediário)",
+                    "observacao": "Bolsista de Projeto de Pesquisa na UFFS 2022/2023, Menção Honrosa OBMEP 2014/2017/2018, Medalha de Bronze OBMEP 2015, Bolsista OBMEP 2014/2015. Tem como objetivo atuar na área de banco de dados.",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com a candidata."
+                        },
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 08:00 no dia 25/04/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "CassianeVitóriaGaiardo20252-04-25.zip",
+                        "linguagem": "C",
+                        "data": "25/04/2025",
+                        "inicio": "08:35",
+                        "fim": "11:50",
+                        "tempo": "3h 15min",
+                        "nota": "9.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Faltou solicitar o valor a pagar e o cálculo do troco."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.GLZ",
+                    "status": "Teste corrigido",
+                    "nome": "Gabriel Lourenço Zeferino",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "gabrielzeferino883@gmail.com",
+                    "telefone": "11 966935903",
+                    "endereco": "Barueri - SP",
+                    "curriculo": "GabrielLourençoZeferino.pdf",
+                    "linkedin": "gabriel-lourenço-33a87b197",
+                    "git": "GeekHero22",
+                    "instituicao": "Universidade Presbiteriana Mackenzie",
+                    "curso": "Ciência da computação",
+                    "periodo": "2",
+                    "hardskills": "Java, HTML, CSS, JavaScript, SQL, Python",
+                    "softskills": "",
+                    "idiomas": "Inglês (Avançado)",
+                    "observacao": "Conversou com a Andressa em uma feira em São Paulo.",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vai vir até a empresa as 08:00 no dia 24/04/2025 para realizar o teste utilizando a linguagem Python."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "GabrielLourençoZeferino2025-04-24.zip",
+                        "linguagem": "Python",
+                        "data": "24/04/2025",
+                        "inicio": "09:00",
+                        "fim": "10:35",
+                        "tempo": "1h 35min",
+                        "nota": "8.5",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Faltou apresentar o valor do ingresso quando uma venda é efetivada."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Quando lanche não tem complemento ou bebida o código do lanche não é apresentado corretamente."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.RBM",
+                    "status": "Teste corrigido",
+                    "nome": "Raul Bonfante Magri",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "raulbonfantem@gmail.com",
+                    "telefone": "49 984145712",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "RaulBonfanteMagri.pdf",
+                    "linkedin": "",
+                    "git": "raulbonfantemagri",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "7",
+                    "hardskills": "C, C++, Python, Java, JavaScript e SQL",
+                    "softskills": "",
+                    "idiomas": "Inglês (Avançado C1)",
+                    "observacao": "",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vem até a empresa as 08:00 no dia 04/04/2025 para realizar o teste utilizando a linguagem Python."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "RaulBonfanteMagri2025-04-04.zip",
+                        "linguagem": "Python",
+                        "data": "04/04/2025",
+                        "inicio": "08:20",
+                        "fim": "10:27",
+                        "tempo": "1h 02min",
+                        "nota": "8.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "A lógica de arredondamento só funciona para o caso de teste de exemplo, para outros cenários ela não funciona."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Tudo certo no desenvolvimento da questão, código organizado e implementado com funções."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Não roda o código implementado por erros de sintaxe e erros de lógica."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "1.0",
+                                "feedback": "O algoritmo falha quando lanche não tem complemento ou bebida, apresentando valor incorreto. Faltou implementar o valor a pago e valor do troco."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.CADS",
+                    "status": "Teste corrigido",
+                    "nome": "Carolina Aveiro Dos Santos",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "carolaveiro@gmail.com",
+                    "telefone": "45 999867421",
+                    "endereco": "Foz do Iguaçu - PR",
+                    "curriculo": "CarolinaAveiroDosSantos.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Descomplica Uniamérica",
+                    "curso": "Engenharia de Software",
+                    "periodo": "5",
+                    "hardskills": "Java, Spring, JavaScript, HTML, CSS",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com a candidata."
+                        },
+                        {
+                            "data": "24/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vai fazer o teste na filial de Foz as 08:30 no dia 30/04/2025 para realizar o teste utilizando a linguagem Java."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "CarolinaAveiroDosSantos2025-04-30.zip",
+                        "linguagem": "Python",
+                        "data": "30/04/2025",
+                        "inicio": "08:45",
+                        "fim": "12:45",
+                        "tempo": "4h 00min",
+                        "nota": "8.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.5",
+                                "feedback": "Lógica incompleta, não implementou tudo o que o problema solicitava."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.WKB",
+                    "status": "Teste corrigido",
+                    "nome": "Willian Kronhardt Boita",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "wkboita@gmail.com",
+                    "telefone": "49 991053803",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "WillianKronhardtBoita.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Unochapecó",
+                    "curso": "Ciência da computação",
+                    "periodo": "1",
+                    "hardskills": "Node JS, Express, React, React Native e Typescript.",
+                    "softskills": "",
+                    "idiomas": "",
+                    "observacao": "",
+                    "disponibilidade": "Matutino ou Vespertino",
+                    "selecao": [
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "WillianKronhardtBoita2025-04-14.zip",
+                        "linguagem": "JavaScript",
+                        "data": "14/04/2025",
+                        "inicio": "08:10",
+                        "fim": "12:00",
+                        "tempo": "3h 50min",
+                        "nota": "7.5",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as premissas do problema."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Incorreta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissa do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Não fez",
+                                "nota": "0.0",
+                                "feedback": "Não utilizou matrizes e a lógica não atende o que foi solicitado."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Não fez",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissa do problema."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.RPC",
+                    "status": "Teste corrigido",
+                    "nome": "Rafael Potrich Costa",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "rafaelpcmkt@gmail.com",
+                    "telefone": "49 999909543",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "RafaelPotrichCosta.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "IFSC",
+                    "curso": "Ensino médio",
+                    "periodo": "4",
+                    "hardskills": "HTML, CSS, PHP",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "02/05/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "02/05/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vai vir até a empresa as 08:00 no dia 05/05/2025 para realizar o teste utilizando a linguagem Python."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "RafaelPotrichCosta2025-05-05.zip",
+                        "linguagem": "Python",
+                        "data": "05/05/2025",
+                        "inicio": "08:30",
+                        "fim": "10:30",
+                        "tempo": "2h 00min",
+                        "nota": "6.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica desenvolvida está incompleta, impede a avaliação da questão."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "1.5",
+                                "feedback": "Lógica incorreta, não atende corretamente os requisitos do problema."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.AFT",
+                    "status": "Teste corrigido",
+                    "nome": "Arthur Felipe Triches",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "aftriches@gmail.com",
+                    "telefone": "49 999062001",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "ArthurFelipeTriches.pdf",
+                    "linkedin": "artur-felipe-triches-aa48b8362",
+                    "git": "cbstrick",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "1",
+                    "hardskills": "C, Python, SQL",
+                    "softskills": "",
+                    "idiomas": "Inglês (Avançado)",
+                    "observacao": "Indicação Sr. Davi",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "03/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vai vir até a empresa as 08:00 no dia 11/04/2025 para realizar o teste utilizando a linguagem C++."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "AthurFelipeTriches2025-04-11.zip",
+                        "linguagem": "C++",
+                        "data": "11/04/2025",
+                        "inicio": "08:20",
+                        "fim": "09:50",
+                        "tempo": "1h 30min",
+                        "nota": "5.5",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "A lógica para dízimas não foi implementada."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Idades iguais a 12 ou 18 não são contabilizadas em nenhuma classificação."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Não utilizou matriz, a lógica de disponibilidade não funciona e valor total apresenta um valor aleatório por lixo na variável."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "1.5",
+                                "feedback": "O algoritmo pede o tipo de lanche, o complemento e depois para a execução sem chamar as demais funções que foram implementadas."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.IC",
+                    "status": "Teste agendado",
+                    "nome": "Isabela Chiocheta",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "isabelachiocheta@gmail.com",
+                    "telefone": "49 999172544",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "IsabelaChiocheta.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "1",
+                    "hardskills": "PHP, Java, SQL, Laravel, Python, JavaScript.",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário), Espanhol (Intermediário)",
+                    "observacao": "",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com a candidata."
+                        },
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vai vir até a empresa as 08:00 no dia 30/04/2025 para realizar o teste utilizando a linguagem Python."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "IsabelaChiocheta2025-04-30.zip",
+                        "linguagem": "Python",
+                        "data": "30/04/2025",
+                        "inicio": "08:20",
+                        "fim": "09:45",
+                        "tempo": "1h 25min",
+                        "nota": "4.5",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissas do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica incorreta, não implementou utilizando matrizes e não atendeu aos requisitos do problema."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica incorreta, não atende aos requisitos do problema."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.LSM",
+                    "status": "Teste corrigido",
+                    "nome": "Lucas Santos Magro",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "lucassmagro@gmail.com",
+                    "telefone": "49 991259617",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "LucasSantosMagro.pdf",
+                    "linkedin": "lucasmagro",
+                    "git": "",
+                    "instituicao": "Unoesc",
+                    "curso": "Sistemas de informação",
+                    "periodo": "1",
+                    "hardskills": "",
+                    "softskills": "",
+                    "idiomas": "Inglês (Avançado), Espanhol (Intermediário)",
+                    "observacao": "Formado em Arquitetura e Hurbanismo, trabalha como Gerente de Mídias Sociais na Arroba Comunicação.",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com a candidata."
+                        },
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 08:00 no dia 25/04/2025 para realizar o teste utilizando a linguagem C."
+                        },
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 08:00 no dia 25/04/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "LucasSantosMagro2025-04-25.zip",
+                        "linguagem": "C",
+                        "data": "25/04/2025",
+                        "inicio": "08:35",
+                        "fim": "11:15",
+                        "tempo": "2h 35min",
+                        "nota": "4.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Algoritmo está incompleto, possui apenas a declaração das variáveis."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Algoritmo está incompleto, possui apenas a declaração das variáveis."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Algoritmo falha em alguns cálculos de bebidas, pois a atribuição de valor está com o operador de igualdade ==."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.FG",
+                    "status": "Teste corrigido",
+                    "nome": "Júlia Formagini Girardelo",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "juliafgirardelo@outlook.com",
+                    "telefone": "49 999169545",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "JuliaFormaginiGirardelo.pdf",
+                    "linkedin": "juliafgirardelo",
+                    "git": "jufordelo",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "1",
+                    "hardskills": "PHP, HTML, CSS",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "Ensino Médio Técnico em Desenvolvimento de Sistemas IFSC, trabalha no suporte técnico Bsoft by nstech.",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidata."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "JuliaFormaginiGirardelo2025-04-07.zip",
+                        "linguagem": "Python",
+                        "data": "07/04/2025",
+                        "inicio": "08:15",
+                        "fim": "11:05",
+                        "tempo": "2h 50min",
+                        "nota": "2.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica incorreta, não implementou a repetição e a idade igual a 12 não satisfaz nenhuma das categorias."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Não fez",
+                                "nota": "0.0",
+                                "feedback": "Não implementou o algoritmo."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica incorreta e incompleta."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.ALDD",
+                    "status": "Teste corrigido",
+                    "nome": "Ana Luisa Dias Duarte",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "analuisadiasduarte@gmail.com",
+                    "telefone": "49 999167494",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "AnaLuisaDiasDuarte.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "5",
+                    "hardskills": "SQL",
+                    "softskills": "",
+                    "idiomas": "Inglês (Básico/Intermediário)",
+                    "observacao": "Candidata desmontrou interesse na vaga de Analista de Teste / QA Jr",
+                    "disponibilidade": "Matutino",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com a candidata."
+                        },
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 08:00 no dia 04/04/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "AnaLuisaDiasDuarte2025-04-04.zip",
+                        "linguagem": "C",
+                        "data": "04/04/2025",
+                        "inicio": "08:20",
+                        "fim": "09:15",
+                        "tempo": "55min",
+                        "nota": "2.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio de arredondamento."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica incorreta, não implementou a repetição e condicionais estão com a lógica incorreta."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Não implementou a lógica do algoritmo."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Não fez",
+                                "nota": "0.0",
+                                "feedback": "Não fez o algoritmo."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.AFM",
+                    "status": "Teste corrigido",
+                    "nome": "Aline Faria Morais",
+                    "nascimento": "",
+                    "foto": "female.png",
+                    "email": "alinefmorais29@gmail.com",
+                    "telefone": "12 982430699",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "AlineFariaMorais.pdf",
+                    "linkedin": "alinemorais",
+                    "git": "",
+                    "instituicao": "UFFS",
+                    "curso": "Ciência da computação",
+                    "periodo": "8",
+                    "hardskills": "Python, C, Java, JavaScript, Flutter, PostgresSQL, HTML5, CSS3",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário/Avançado), Espanhol (Básico)",
+                    "observacao": "",
+                    "disponibilidade": "Matutino ou Vespertino",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "16/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vai vir até a empresa as 13:30 no dia 17/04/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "AlineFariaMorais2025-04-17.zip",
+                        "linguagem": "C++",
+                        "data": "17/04/2025",
+                        "inicio": "13:45",
+                        "fim": "17:45",
+                        "tempo": "4h",
+                        "nota": "2.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "1.0",
+                                "feedback": "A lógica das dízimas não foi implementada, o algoritmo tem erros de sintaxe que impedem a compilação."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Parcialmente",
+                                "nota": "1.0",
+                                "feedback": "Idades iguais a 12 não são contabilizadas em nenhuma classificação, o algoritmo tem erros de sintaxe que impedem a compilação."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Não fez."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Parcialmente",
+                                "nota": "0.0",
+                                "feedback": "Não fez."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.NKB",
+                    "status": "Teste corrigido",
+                    "nome": "Nicolas Kronhardt Boita",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "nkboita@gmail.com",
+                    "telefone": "49 991068131",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "NicolasKronhardtBoita.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Unochapecó",
+                    "curso": "Ciência da computação",
+                    "periodo": "1",
+                    "hardskills": "Java, Javascript, React, Wordpress, Python, HTML e MySQL",
+                    "softskills": "",
+                    "idiomas": "",
+                    "observacao": "",
+                    "disponibilidade": "Matutino ou Vespertino",
+                    "selecao": [
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "NicolasKronhardtBoita2025-04-14.zip",
+                        "linguagem": "JavaScript e C",
+                        "data": "14/04/2025",
+                        "inicio": "08:10",
+                        "fim": "12:00",
+                        "tempo": "3h 50min",
+                        "nota": "2.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Desafio de arredondamento não funcionou com a lógica desenvolvida para outros cenários de teste."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica incorreta, não implementou a repetição para solicitar a idade dos hóspedes, portanto o algoritmo não atende ao que foi solicitado."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Não fez",
+                                "nota": "0.0",
+                                "feedback": "Não implementou o algoritmo."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Não fez",
+                                "nota": "0.0",
+                                "feedback": "Não implementou o algoritmo."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.VR",
+                    "status": "Recusou participar do teste",
+                    "nome": "Vitor Rodi",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "vitorrodi12@gmail.com",
+                    "telefone": "49 998012204",
+                    "endereco": "Caibi - SC",
+                    "curriculo": "VitorRodi.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Unochapecó",
+                    "curso": "Ciência da computação",
+                    "periodo": "5",
+                    "hardskills": "Cobol",
+                    "softskills": "",
+                    "idiomas": "Inglês (Básico)",
+                    "observacao": "Fez estágio de desenvolvimento de software como programador Cobol na H&S Software",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "07/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato agradeceu o contato mas não quis fazer o teste."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.FG",
+                    "status": "Recusou participar do teste",
+                    "nome": "Felipe Grigolo",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "grigolodev@gmail.com ",
+                    "telefone": "49 988220061",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "FelipeGrigolo.pdf",
+                    "linkedin": "felipegrigolo",
+                    "git": "felipegrigolo",
+                    "instituicao": "Unochapecó",
+                    "curso": "Ciência da computação",
+                    "periodo": "3",
+                    "hardskills": "HTML, CSS, JavaScript, Postgres, Bootstrap, Figma, Java, Spring Boot, PHP",
+                    "softskills": "",
+                    "idiomas": "",
+                    "observacao": "Estágio com desenvolvimento Web Ui/Ux an 3D Industrial",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "08/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato agradeceu o contato mas não quis fazer o teste."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.DAG",
+                    "status": "Recusou participar do teste",
+                    "nome": "Davi André Gauze",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "davigauze08@gmail.com",
+                    "telefone": "49 999906409",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "DaviAndreGauze.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Unoesc",
+                    "curso": "Sistemas de informação",
+                    "periodo": "3",
+                    "hardskills": "",
+                    "softskills": "",
+                    "idiomas": "Inglês (Fluente)",
+                    "observacao": "Trabalha como suporte técnico na Questor",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "08/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato agradeceu o contato mas não quis fazer o teste, pois já está trabalhando em outra empresa."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.KNF",
+                    "status": "Recusou participar do teste",
+                    "nome": "Kaue Nagi Ferreira",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "kaue.nagiferreira@gmail.com",
+                    "telefone": "49 9991034712",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "KaueNagiFerreira.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "",
+                    "curso": "Ensino Médio - Técnico de informática",
+                    "periodo": "Concluído",
+                    "hardskills": "HTML, CSS, Java, C, SQL, PHP, Python",
+                    "softskills": "",
+                    "idiomas": "",
+                    "observacao": "",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "03/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "03/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato agradeceu o contato mas já está trabalhando em outra empresa."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.WLS",
+                    "status": "Recusou participar do teste",
+                    "nome": "Willian Lucas Soares",
+                    "nascimento": "03/12/2003",
+                    "foto": "male.png",
+                    "email": "williansoa2003@gmail.com.br",
+                    "telefone": "49 999942515",
+                    "endereco": "Maravilha - SC",
+                    "curriculo": "WillianLucasSoares.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Unochapecó",
+                    "curso": "Ciência da computação",
+                    "periodo": "4",
+                    "hardskills": "C, C++, SQL",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "03/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "03/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato agradeceu o contato mas não quis fazer o teste."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.GMDS",
+                    "status": "Não respondeu o contato",
+                    "nome": "Gabriel Matias da Silva",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "gabriel.m.dasilvaf9@gmail.com",
+                    "telefone": "49 999302777",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "GabrielMatiasDaSilva.pdf",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Unochapecó",
+                    "curso": "Ciência da computação",
+                    "periodo": "1",
+                    "hardskills": "C, Python",
+                    "softskills": "",
+                    "idiomas": "",
+                    "observacao": "",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.EJDM",
+                    "status": "Não atende requisitos legais para estágio",
+                    "nome": "Éder Jesus de Moura",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "ederjmoura12@gmail.com",
+                    "telefone": "49 991229157",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Colégio Exponencial",
+                    "curso": "Ensino Fundamental",
+                    "periodo": "9",
+                    "hardskills": "Pacote Office",
+                    "softskills": "",
+                    "idiomas": "Inglês (Básico)",
+                    "observacao": "Indicação do Sr. Marcelo",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "10/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "11/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato tem apenas 14 anos, portanto ele não atende aos requisitos legais para estágio."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.MRM",
+                    "status": "Recusou participar do teste",
+                    "nome": "Matheus Rios Machado",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "riosmachadomatheus@gmail.com",
+                    "telefone": "45 991536387",
+                    "endereco": "Foz do Iguaçu - PR",
+                    "curriculo": "MatheusRiosMachado.pdf",
+                    "linkedin": "matheusriosmachado",
+                    "git": "mateco",
+                    "instituicao": "Descomplica Uniamérica",
+                    "curso": "Análise e Desenvolvimento de Sistemas",
+                    "periodo": "7",
+                    "hardskills": "C++, JavaScript, MySQL, Postgres, Angular 15, Java SpringBoot",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário), Espanhol (Intermediário)",
+                    "observacao": "Verificar se ainda está estudando.",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "24/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vai fazer o teste na filial de Foz as 13:30 no dia 30/04/2025 para realizar o teste utilizando a linguagem JavaScript."
+                        },
+                        {
+                            "data": "30/04/2025",
+                            "acao": "Desistiu do teste",
+                            "descricao": "Candidato não compareceu para fazer o teste, foi feito contato via whatsapp e o candidato falou que esqueceu do compromisso e agradeceu o contato."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.GSJ",
+                    "status": "Não atende requisitos legais para estágio",
+                    "nome": "Guilherme Santos Junior",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "guilhermehvs@outlook.com",
+                    "telefone": "11 976690196",
+                    "endereco": "São Paulo - SP",
+                    "curriculo": "GuilhermeSantosJunior.pdf",
+                    "linkedin": "guilhermehvs",
+                    "git": "",
+                    "instituicao": "Centro Universitário Senac",
+                    "curso": "Análise e Desenvolvimento de Sistemas",
+                    "periodo": "5",
+                    "hardskills": "Java, Spring, HTML, CSS, JavaScript, ReactJS, RestAPI, Postgres, Git, Design Patterns, JUnit, Python, AWS, Docker",
+                    "softskills": "",
+                    "idiomas": "Inglês (Fluente) Espanho (Fluente)",
+                    "observacao": "https://portfolioweb-five-mocha.vercel.app/",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "23/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Candidato não está estudando e está procurando vaga de desenvolvedor junior por não ter experiência."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.MFMG",
+                    "status": "Recusou participar do teste",
+                    "nome": "Mateus Felipe Moro Gomes",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "matgomes596@gmail.com",
+                    "telefone": "49 998060964",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "Recebido impresso",
+                    "linkedin": "",
+                    "git": "",
+                    "instituicao": "Escola de educação básica Tancreda de Almeida Neves",
+                    "curso": "Ensino médio",
+                    "periodo": "1",
+                    "hardskills": "",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "24/04/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "28/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vai vir até a empresa as 13:30 no dia 28/04/2025 para realizar o teste utilizando a linguagem Java."
+                        },
+                        {
+                            "data": "28/04/2025",
+                            "acao": "Desistiu do teste",
+                            "descricao": "Candidato entrou em contato informado que decidiu não participar do teste por não se sentir preparado."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
