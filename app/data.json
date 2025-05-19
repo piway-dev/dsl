@@ -375,7 +375,7 @@
                 },
                 {
                     "id": "2025.CADS",
-                    "status": "Teste corrigido",
+                    "status": "Selecionado",
                     "nome": "Carolina Aveiro Dos Santos",
                     "nascimento": "",
                     "foto": "female.png",
@@ -403,6 +403,11 @@
                             "data": "24/04/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidata vai fazer o teste na filial de Foz as 08:30 no dia 30/04/2025 para realizar o teste utilizando a linguagem Java."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Selecionado",
+                            "descricao": "Andressa solicitou o preenchimento do (Parecer do Processo Seletivo) para encaminhar ao Sr. Marcelo para efetivação da contratação do candidato."
                         }
                     ],
                     "teste": {
@@ -448,7 +453,7 @@
                 },
                 {
                     "id": "2025.WKB",
-                    "status": "Teste corrigido",
+                    "status": "Selecionado",
                     "nome": "Willian Kronhardt Boita",
                     "nascimento": "",
                     "foto": "male.png",
@@ -471,6 +476,16 @@
                             "data": "09/04/2025",
                             "acao": "Contato inicial",
                             "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vem até a empresa as 08:00 no dia 14/04/2025 para realizar o teste utilizando a linguagem JavaScript."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Selecionado",
+                            "descricao": "Andressa solicitou o preenchimento do (Parecer do Processo Seletivo) para encaminhar ao Sr. Marcelo para efetivação da contratação do candidato."
                         }
                     ],
                     "teste": {
@@ -516,7 +531,7 @@
                 },
                 {
                     "id": "2025.RPC",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Rafael Potrich Costa",
                     "nascimento": "",
                     "foto": "male.png",
@@ -544,6 +559,11 @@
                             "data": "02/05/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidato vai vir até a empresa as 08:00 no dia 05/05/2025 para realizar o teste utilizando a linguagem Python."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
@@ -662,7 +682,7 @@
                 },
                 {
                     "id": "2025.IC",
-                    "status": "Teste agendado",
+                    "status": "Não selecionado",
                     "nome": "Isabela Chiocheta",
                     "nascimento": "",
                     "foto": "female.png",
@@ -690,6 +710,11 @@
                             "data": "23/04/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidata vai vir até a empresa as 08:00 no dia 30/04/2025 para realizar o teste utilizando a linguagem Python."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
@@ -735,7 +760,7 @@
                 },
                 {
                     "id": "2025.LSM",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Lucas Santos Magro",
                     "nascimento": "",
                     "foto": "male.png",
@@ -768,6 +793,11 @@
                             "data": "23/04/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidata vem até a empresa as 08:00 no dia 25/04/2025 para realizar o teste utilizando a linguagem C."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
@@ -813,7 +843,7 @@
                 },
                 {
                     "id": "2025.FG",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Júlia Formagini Girardelo",
                     "nascimento": "",
                     "foto": "female.png",
@@ -836,6 +866,16 @@
                             "data": "02/04/2025",
                             "acao": "Contato inicial",
                             "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidata."
+                        },
+                        {
+                            "data": "02/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidata vem até a empresa as 08:00 no dia 07/04/2025 para realizar o teste utilizando a linguagem Python."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
@@ -881,7 +921,7 @@
                 },
                 {
                     "id": "2025.ALDD",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Ana Luisa Dias Duarte",
                     "nascimento": "",
                     "foto": "female.png",
@@ -909,6 +949,11 @@
                             "data": "02/04/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidata vem até a empresa as 08:00 no dia 04/04/2025 para realizar o teste utilizando a linguagem C."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
@@ -954,7 +999,7 @@
                 },
                 {
                     "id": "2025.AFM",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Aline Faria Morais",
                     "nascimento": "",
                     "foto": "female.png",
@@ -982,6 +1027,11 @@
                             "data": "16/04/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidato vai vir até a empresa as 13:30 no dia 17/04/2025 para realizar o teste utilizando a linguagem C."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
@@ -1027,7 +1077,7 @@
                 },
                 {
                     "id": "2025.NKB",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Nicolas Kronhardt Boita",
                     "nascimento": "",
                     "foto": "male.png",
@@ -1050,6 +1100,16 @@
                             "data": "09/04/2025",
                             "acao": "Contato inicial",
                             "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "09/04/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vai vir até a empresa as 08:00 no dia 14/04/2025 para realizar o teste utilizando a linguagem JavaScript."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
