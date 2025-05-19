@@ -167,7 +167,9 @@
 
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter" ng-repeat="x in selecao.candidato" ng-click="getCandidato(x)"
-              style="{{x.teste==null?'text-decoration-line: line-through':''}}">{{x.nome}}
+              style="{{x.teste==null?'text-decoration-line: line-through':''}}">
+              <i class="bi bi-star" ng-show="x.status=='Selecionado'"></i>
+              {{x.nome}}
               <i class="bi" ng-show="x.teste!=null">({{x.teste.nota}})</i>
             </li>
           </ul><!-- End Portfolio Filters -->
