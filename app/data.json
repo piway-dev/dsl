@@ -609,7 +609,7 @@
                 },
                 {
                     "id": "2025.AFT",
-                    "status": "Teste corrigido",
+                    "status": "Não selecionado",
                     "nome": "Arthur Felipe Triches",
                     "nascimento": "",
                     "foto": "male.png",
@@ -637,6 +637,11 @@
                             "data": "03/04/2025",
                             "acao": "Agendamento do teste de lógica",
                             "descricao": "Candidato vai vir até a empresa as 08:00 no dia 11/04/2025 para realizar o teste utilizando a linguagem C++."
+                        },
+                        {
+                            "data": "12/05/2025",
+                            "acao": "Agradecimento",
+                            "descricao": "Foi realizado o contato com a candidata para agradecer pela participação, o desempenho no teste técnico não foi satisfatório."
                         }
                     ],
                     "teste": {
