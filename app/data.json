@@ -3,10 +3,10 @@
     "selecao": [
         {
             "anomes": "2025.04",
-            "candidatos": 25,
-            "testes": 15,
+            "candidatos": 26,
+            "testes": 16,
             "top": 3,
-            "media": 4,
+            "media": 5,
             "candidato": [
                 {
                     "id": "2025.IR",
@@ -523,6 +523,79 @@
                                 "numero": 4,
                                 "descricao": "Estruturas de decisão",
                                 "avaliacao": "Não fez",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissa do problema."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2025.PG",
+                    "status": "Teste corrigido",
+                    "nome": "Pedro Gadelha",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "pgpgadelha123@gmail.com.br",
+                    "telefone": "85 991508409",
+                    "endereco": "Fortaleza - CE",
+                    "curriculo": "PedroGadelha.pdf",
+                    "linkedin": "",
+                    "git": "gadelha2005",
+                    "instituicao": "Unifor",
+                    "curso": "Ciência da computação",
+                    "periodo": "3",
+                    "hardskills": "Algoritmos, POO, Java, JavaScript, MySQL, GitHub, Jpa/Hibernate, Maven, Spring Boot",
+                    "softskills": "",
+                    "idiomas": "Inglês (Básico)",
+                    "observacao": "Pai trabalha como gerente em um hotel de cliente da Desbravador em Fortaleza.",
+                    "disponibilidade": "Vespertino",
+                    "selecao": [
+                        {
+                            "data": "19/05/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "21/05/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vem até a filial de Fortaleza as 14:00 no dia 22/04/2025 para realizar o teste utilizando a linguagem Java."
+                        }
+                    ],
+                    "teste": {
+                        "teste": "Teste2025.pdf",
+                        "fonte": "PedroGadelha2025-05-22.zip",
+                        "linguagem": "JavaScript",
+                        "data": "22/05/2025",
+                        "inicio": "14:20",
+                        "fim": "16:20",
+                        "tempo": "2h 00min",
+                        "nota": "7.0",
+                        "questao": [
+                            {
+                                "numero": 1,
+                                "descricao": "Sequência lógica, operadores aritméticos",
+                                "avaliacao": "Parcialmente",
+                                "nota": "2.0",
+                                "feedback": "Não implementou o desafio."
+                            },
+                            {
+                                "numero": 2,
+                                "descricao": "Estruturas repetição",
+                                "avaliacao": "Correta",
+                                "nota": "2.5",
+                                "feedback": "Solução atende todas as presmissa do problema."
+                            },
+                            {
+                                "numero": 3,
+                                "descricao": "Estruturas vetores e matrizes",
+                                "avaliacao": "Incorreta",
+                                "nota": "0.0",
+                                "feedback": "Lógica desenvolvida está incompleta, impede a avaliação da questão."
+                            },
+                            {
+                                "numero": 4,
+                                "descricao": "Estruturas de decisão",
+                                "avaliacao": "Correta",
                                 "nota": "2.5",
                                 "feedback": "Solução atende todas as presmissa do problema."
                             }
