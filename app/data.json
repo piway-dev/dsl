@@ -2,6 +2,81 @@
     "estagiario": [],
     "selecao": [
         {
+            "anomes": "2025.07",
+            "candidatos": 2,
+            "testes": 0,
+            "top": 0,
+            "media": 0,
+            "candidato": [
+                {
+                    "id": "2025.GRM",
+                    "status": "Teste agendado",
+                    "nome": "Guilherme Rech Morais",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "rechmoraisguilherme@gmail.com",
+                    "telefone": "49 991571794",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "GuilhermeRechMorais.jpg",
+                    "linkedin": "guilhermermorais",
+                    "git": "",
+                    "instituicao": "Unochapecó",
+                    "curso": "Sistemas de informação",
+                    "periodo": "2",
+                    "hardskills": "",
+                    "softskills": "",
+                    "idiomas": "Inglês (Intermediário)",
+                    "observacao": "Indicação do Daniel Pompeo da Silva",
+                    "disponibilidade": "Vespertino",
+                    "selecao": [
+                        {
+                            "data": "11/07/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "11/07/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato vem até a empresa as 13:40 no dia 17/07/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ]
+                },
+                {
+                    "id": "2025.GRM",
+                    "status": "Teste agendado",
+                    "nome": "Koete Jacob Emmanuel Amony",
+                    "nascimento": "",
+                    "foto": "male.png",
+                    "email": "jacobamony@gmail.com",
+                    "telefone": "41 988674635",
+                    "endereco": "Chapecó - SC",
+                    "curriculo": "KoeteJacobEmmanuelAmony.pdf",
+                    "linkedin": "",
+                    "git": "jacob-majesty",
+                    "instituicao": "Uninter",
+                    "curso": "Análise e Desenvolvimento de Sistemas",
+                    "periodo": "Formado",
+                    "hardskills": "Java, Spring, Javascript, Angular, HTML, Postgres, Git, Docker, Kubernetes, AWS",
+                    "softskills": "",
+                    "idiomas": "Inglês (Avançado)",
+                    "observacao": "Indicação do Sr. Marcelo",
+                    "disponibilidade": "Não informado",
+                    "selecao": [
+                        {
+                            "data": "11/07/2025",
+                            "acao": "Contato inicial",
+                            "descricao": "Realizado o contato através de Whatsapp para agendar uma conversa com o candidato."
+                        },
+                        {
+                            "data": "11/07/2025",
+                            "acao": "Agendamento do teste de lógica",
+                            "descricao": "Candidato fará o teste de Java das 07:30 às 11:30 no dia 16/07/2025 para realizar o teste utilizando a linguagem C."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "anomes": "2025.04",
             "candidatos": 26,
             "testes": 16,
